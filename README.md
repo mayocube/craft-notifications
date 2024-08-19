@@ -1,6 +1,8 @@
+# THIS IS A COPY OF CRAFTPULSE/CRAFTNOTIFICATION, with a maintainer!
+
 ![icon](./resources/img/banner.png)
 
-# Notifications plugin for Craft CMS 3.x
+# Notifications plugin for Craft CMS 5.x
 
 Send notifications across a variety of delivery channels, including mail and Slack. Notifications may also be stored in a database so they may be displayed in your web interface.
 
@@ -26,7 +28,7 @@ This plugin is licensed under a MIT license, which means that it's completely fr
 
 ## Requirements
 
-This plugin requires Craft CMS 3.1.0 or later.
+This plugin requires Craft CMS 5.0.0 or later.
 
 ## Installation
 
@@ -38,7 +40,7 @@ To install the plugin, follow these instructions.
 
 2. Then tell Composer to load the plugin:
 
-        composer require percipioglobal/craft-notifications
+        composer require mayocube/craft-notifications
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Notifications.
 
